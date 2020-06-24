@@ -164,7 +164,7 @@
             <div class="statistics-block statistics-block_1">
                 <span class="statistics-block_color">уже</span>
                 <span class="statistics-block_color statistics-block__number">8</span>
-                <span>лет методики</span>
+                <span>лет методике</span>
             </div>
             <!-- /.statistics-block statistics-block_1 -->
             <div class="statistics-block statistics-block_2">
